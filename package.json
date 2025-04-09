@@ -1,0 +1,22 @@
+{
+  "name": "bimplus-embedded-issue-example",
+  "version": "0.0.1",
+  "author": "",
+  "description": "Bimplus embedded issue list and issue properties Example Application",
+  "private": true,
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "license": "MIT",
+  "scripts": {
+    "serve": "live-server --verbose"
+  },
+  "devDependencies": {
+    "bimplus-webclient": "0.1.57",
+    "bimplus-websdk": "1.0.46",
+    "jquery": "3.7.1",
+    "requirejs": "2.3.7"
+  },
+  "dependencies": {}
+}
